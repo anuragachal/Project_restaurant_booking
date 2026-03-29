@@ -1,4 +1,4 @@
-How to Run the Project
+
 Step 1: Install dependencies
 Code in terminal:pip install requirements.txt
 
